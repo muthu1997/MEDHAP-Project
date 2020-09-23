@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422962907226",
+    "firebase_url": "https://medhap-eb9ab.firebaseio.com",
+    "project_id": "medhap-eb9ab",
+    "storage_bucket": "medhap-eb9ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422962907226:android:fc76d6fd7bd43c08223063",
+        "android_client_info": {
+          "package_name": "com.medhaphygenic.userPortalApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422962907226-skobflq05nm3gd52977nvnjbe9a68qtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQckSDMN0BS-z52zG34WiNIlJQPgUMqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422962907226-skobflq05nm3gd52977nvnjbe9a68qtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
